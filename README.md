@@ -13,12 +13,6 @@ This is a front-end website project built using HTML** and CSS as part of a clas
 - HTML5
 - CSS3
 
-## Pages Included
-- Home
-- About
-- Contact
-- Services / Products (optional based on your design)
-
 ## How to Run
 1. Clone or download the repository
 2. Open `index.html` in any modern browser
